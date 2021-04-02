@@ -1,0 +1,364 @@
+.container
+{display:grid;border-top:0px;border-bottom:1px solid lightgrey;font-size:0.9vw;
+grid-template-columns:8vw 3vw 15vw 15vw 25vw 5vw 16vw;
+margin:0% 10% 0% 10%;}
+.edition
+{justify-self:end;
+text-decoration:none;
+color:black;}
+.in
+{text-decoration:none;
+color:black;
+}
+.indore
+{justify-self:start;color:black;text-decoration:none;}
+.login
+{justify-self:end;margin-bottom:0.5vw; padding-bottom: 0.2vw;}
+.login2
+{background-color:purple;color:white;font-size:0.9vw;text-decoration:none;}
+.sign-in
+{justify-self:center;color:black;text-decoration:none;}
+.images1
+{height:1vw;width:1vw;
+border-radius:50%;}
+.toi
+{margin:0% 18% 0% 18%;
+width: 60%;max-width:100%;height:auto}
+.menubar
+{display:grid;
+position:sticky;
+top: 0;
+background-color: white;
+border-top:1px solid lightgrey;border-bottom:1px solid black;
+font-size:0.9vw;margin:0% 0% 0% 0%;padding-top:0.3vw;padding-bottom:0.3vw;
+grid-template-columns:repeat(12,4vw) 6vw 2vw 5vw 5vw repeat(3,4vw) 2.5vw repeat(3,2vw);
+}
+.images2
+{height:1vw;width:1vw;}
+.menuicons
+{color:black;text-decoration:none;}
+.menu2
+{display:grid;border-bottom:1px solid lightgrey;grid-template-columns:7vw 4vw 12vw 10vw 5vw;
+font-size:0.7vw;margin:0% 12% 0% 12%;
+grid-column-gap:0.5vw;padding-top:0.5vw;padding-bottom:0.4vw;}
+.content1
+{display:grid;
+grid-template-columns:40vw 15vw 15vw ;
+font-size:0.7vw;
+margin:0% 12% 0% 12%;
+grid-column-gap:2vw;
+padding-top:0.5vw;
+padding-bottom:0.4vw;}
+.column1
+{display:grid;font-size:0.9vw;
+grid-template-columns:10vw 6vw 10vw 6vw;
+grid-template-rows:5vw;
+grid-gap:3vw;
+width:40vw;
+padding-top:1vw;
+padding-bottom:0.5vw;
+border-bottom:1px dotted black;
+
+ 
+margin:0% 12% 0% 1%;
+;
+}
+.abc
+{
+border-right:1px dotted black;
+border-left:1px dotted black;
+}
+.text4{
+font-size:1vw;
+text-decoration:none;
+color:black;
+margin-left:2.5vw;
+margin-right:2.5vw;
+}
+.image-column1
+{border-radius:5%;
+width:5vw;height:5vw;}
+.text-2
+{text-decoration:none;
+color:black;
+font-size:1.1vw;
+}
+.text3
+{text-decoration:none;
+color:black;
+font-size:1.1vw;
+margin-left:2.5vw;
+margin-right:2.5vw;
+
+}
+.img-column2
+{width:10vw;
+height:5vw;
+border-radius:5%;
+display:block;
+margin-left:2.5vw;
+margin-right:2.5vw;
+}
+.column3
+{text-allign:left;
+grid-gap:0vw;
+
+}
+
+li {
+border-bottom: 1px dotted black;
+}
+
+ul {
+list-style: inside;
+padding-left: 0;
+}
+
+.trending
+{display:grid;
+grid-template-columns:8vw 12vw 7vw 6vw 7vw 7vw 10vw 3vw;
+grid-gap:2vw;
+margin:0% 12% 0% 12%;
+
+;
+}
+
+.text5
+{font-size:0.8vw;
+padding-top:0.2vw;
+padding-bottom:0.2vw;
+border-radius:1.5vw;
+border-color:lightgrey;
+background-color:lightgrey;opacity:0.8;
+text-decoration:none;
+color:black;
+}
+.trending-news
+{allign-self:center;
+}
+.button
+{width:1.5vw;
+height:1.5vw;
+border-radius:50%;
+background-color:none;
+}
+.opinion
+{margin:0% 12% 0% 12%;
+font-size:1.5vw;
+text-decoration:none;
+padding:1vw 0vw 1vw 0vw;
+color:black;
+}
+.allign
+{padding:1.5vw 0vw 1.5vw 0vw;
+}
+.allign2
+{padding:0vw 0vw 1.5vw 0vw;
+}
+.allign3
+{padding:1.5vw 0vw 0.5vw 0vw;
+}
+
+.opinion2
+{display:grid;
+grid-template-columns:repeat(4,16vw);
+border-color:light-grey;
+grid-gap:1.7vw;
+margin:0% 12% 0% 12%;
+padding:1vw 1vw 0.5vw 1.5vw;
+border: 0.05vw solid lightgrey;
+}
+.headings
+{float:left;font-size:1.1vw;
+padding:0.2vw 1vw 0.2vw 0vw;
+text-decoration:none;
+color:black;
+}
+.images
+{float:right;
+width:3vw;
+height:3vw;
+border-radius:50%
+}
+.para
+{font-size:1.1vw;
+text-decoration:none;
+color:black;
+}
+.footer
+{font-size:1.1vw;
+text-decoration:none;
+color:grey;
+}
+.hr
+{border:1px dotted black;
+}
+
+.entertainment
+{display:grid;
+grid-template-columns:23vw 23vw 23vw ;
+grid-gap:2vw;
+margin:0% 12% 0% 12%;
+padding:1vw 1.5vw 1vw 1.5vw;
+;
+}
+
+.ent-colmn1
+{display:grid ;
+grid-template-columns:10vw 10vw;
+grid-gap:1.5vw;
+grid-template-rows:10vw auto;
+width:20vw;
+
+grid-template-areas:
+      "header header"
+      "news1  news2";
+}
+.c1r1
+{border-radius:10%;
+width:22vw;
+height:10vw;
+grid-template-area:header;
+}
+.c1r2
+{font-size:0.9vw;
+ grid-template-area:news1;
+}
+.c2r2
+{font-size:0.9vw;
+ grid-template-area:news2;
+}
+.image-colmn1
+{width:10vw;
+height:7vw;
+border-radius:10%;
+}
+.textcolmn1
+{font-size:1.1vw;
+text-decoration:none;
+color:black;
+}
+.text-column2
+
+{text-decoration:none;
+color:black;
+font-size:1.1vw;
+
+}
+.border
+{border-right: 1px dotted black;
+padding:0vw 0.5vw 0vw 0.5vw;
+}
+img:hover{background-color:lightgrey;
+          ;}
+.imgclmn3
+{border-radius:10%;
+width:22vw;
+height:15vw;}
+
+.text8
+{margin:0% 12% 0% 12%;
+font-size:1.5vw;
+text-decoration:none;
+color:black;
+}
+
+.youmaylike
+{display:grid;
+grid-template-columns:repeat(6,12vw);
+border-color:light-grey;
+grid-gap:0.6vw;
+margin:0% 12% 0% 12%;
+padding:2vw 0vw 1vw 0vw
+}
+.imgset1
+{width:11vw;
+height:6vw;
+border-radius:10%;
+}
+.txt9
+{font-size:1.1vw;
+text-decoration:none;
+color:black;
+padding:1vw 0vw 1vw 0vw;
+}
+.footer2
+{font-size:1.1vw;
+text-decoration:none;
+color:grey;
+}
+.hr2
+{border:2px solid black;
+}
+.summary
+{display:grid;
+ grid-template-columns:20vw 20vw 20vw;
+ margin:0% 12% 0% 12%;
+ grid-column-gap:5vw;
+ padding:3vw 0.5vw 3vw 0.5vw;
+border-bottom:0.1vw dotted grey;
+}
+.summaryclmn1
+{display:grid;
+grid-template-columns:11vw 6vw;
+grid-template-rows:repeat(auto-fill,auto);
+padding:0.5vw 0.5vw 0.5vw 0.5vw;
+grid-row-gap:0.8vw;
+grid-column-gap:3vw;
+}
+
+
+.summaryclmn2
+{display:grid;
+grid-template-columns:7vw 9vw;
+grid-template-rows:repeat(auto-fill,2vw);
+padding:2vw 0.5vw 0.5vw 0.5vw;
+grid-row-gap:0.8vw;
+grid-column-gap:3vw;
+}
+.summaryclmn3
+{display:grid;
+grid-template-columns:9vw 9vw;
+grid-template-rows:repeat(auto-fill,2vw);
+padding:0.5vw 0.5vw 0.5vw 0.5vw;
+grid-row-gap:0.8vw;
+grid-column-gap:1vw;
+}
+
+.txt11
+{font-size:1vw;
+text-decoration:none;
+color:grey;
+}
+
+.txt12
+{
+font-size:1vw;
+text-decoration:none;
+color:black;
+}
+.imgsummary
+{width:11vw;
+height:6vw;
+}
+.imgsummary2
+{width:2.5vw;
+height:2vw;
+}
+.txt14
+{
+
+font-size:1vw;
+color:grey;
+margin:0% 22% 0% 22%;
+padding:1.5vw 2vw 1.5vw 2vw;
+
+
+}
+
+
+
+
+
+
+
